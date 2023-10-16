@@ -1,1 +1,1 @@
-modificare noua
+ int a = 20; //initializare variabila
